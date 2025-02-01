@@ -39,3 +39,18 @@ Projekt dotyczy analizy depresji wśród studentów na podstawie dostępnych dan
 - Implementacja modelu w aplikacji wspierającej doradców akademickich.
 - Dalsza analiza wpływu różnych czynników na depresję studentów.
 - Rozszerzenie zbioru danych o dodatkowe atrybuty psychologiczne i społeczne.
+
+
+
+Wnioski na temat depresji wśród studentów
+Wysoka częstość występowania – Depresja wśród studentów jest powszechnym problemem, co potwierdzają wyniki analizy danych. Może być ona związana z presją akademicką, problemami finansowymi, izolacją społeczną czy stresem związanym z przyszłością zawodową.
+
+Istotne czynniki ryzyka – Z analizy wynika, że pewne czynniki mają silniejszy wpływ na ryzyko depresji, m.in. poziom stresu, wyniki akademickie, jakość snu, aktywność fizyczna oraz wsparcie społeczne.
+
+Znaczenie wsparcia psychologicznego – Brak dostępu do odpowiedniego wsparcia psychologicznego może pogłębiać problemy studentów. Wyniki sugerują, że interwencje psychologiczne mogą pomóc w zmniejszeniu ryzyka depresji.
+
+Wpływ stylu życia – Studenci prowadzący zdrowy tryb życia (regularny sen, aktywność fizyczna, zbilansowana dieta) mają niższe ryzyko wystąpienia depresji, co sugeruje, że działania profilaktyczne powinny skupiać się na promowaniu zdrowych nawyków.
+
+Rola czynników społecznych – Izolacja społeczna i brak wsparcia ze strony rodziny oraz rówieśników są istotnymi czynnikami wpływającymi na depresję, co wskazuje na potrzebę budowania silniejszych więzi społecznych w środowisku akademickim.
+
+Możliwość wykorzystania modelu predykcyjnego – Wyniki analizy pokazują, że model predykcyjny może pomóc w identyfikacji studentów zagrożonych depresją, co może wspierać uczelnie w podejmowaniu działań profilaktycznych.

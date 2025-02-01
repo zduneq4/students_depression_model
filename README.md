@@ -60,7 +60,19 @@ Wysoka wartość ROC-AUC (91%) sugeruje, że model dobrze odróżnia studentów 
 
 Model może wymagać dalszego strojenia hiperparametrów lub uwzględnienia dodatkowych zmiennych celem poprawy skuteczności.
 
-4. Wnioski
+4. Interpretacja wykresów
+
+Histogramy – Pokazują rozkład zmiennych, np. poziom stresu, czas snu czy oceny akademickie. Pomagają zrozumieć, jakie wartości są najczęstsze i czy dane mają rozkład normalny.
+
+Wykresy pudełkowe (Boxploty) – Ilustrują rozkład zmiennych oraz obecność wartości odstających, np. w zakresie poziomu stresu studentów.
+
+Macierz korelacji (Heatmapa) – Pokazuje zależności między zmiennymi, np. czy stres jest silnie skorelowany z wynikami akademickimi lub poziomem aktywności fizycznej.
+
+Wykres ROC-AUC – Obrazuje skuteczność modelu w rozróżnianiu przypadków depresji i zdrowych studentów. Im większe pole pod krzywą, tym lepszy model.
+
+Macierz błędów (Confusion Matrix) – Prezentuje liczbę poprawnych i błędnych klasyfikacji, co pozwala ocenić, w jakich przypadkach model najczęściej się myli.
+
+5. Wnioski
 
 Opracowany model ma duży potencjał w zakresie przewidywania depresji wśród studentów.
 
@@ -72,13 +84,14 @@ Wysoka częstość występowania depresji wśród studentów podkreśla konieczn
 
 Styl życia, poziom stresu oraz relacje społeczne odgrywają kluczową rolę w występowaniu depresji, co wskazuje na potrzebę holistycznego podejścia do zdrowia psychicznego.
 
-5. Możliwe dalsze kroki
+6. Możliwe dalsze kroki
 
 Implementacja modelu w aplikacji wspierającej doradców akademickich.
 
 Dalsza analiza wpływu różnych czynników na depresję studentów.
 
 Rozszerzenie zbioru danych o dodatkowe atrybuty psychologiczne i społeczne.
+
 
 
 

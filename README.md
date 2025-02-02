@@ -52,7 +52,7 @@ Wykorzystano macierz błędów (confusion matrix) do oceny błędnych klasyfikac
 
 3. Analiza wyników
 
-Model uzyskał accuracy na poziomie 87%, co wskazuje na dobrą skuteczność.
+
 
 Najlepszy wynik pod względem F1-score uzyskał model Random Forest, co sugeruje, że jest on najlepszym wyborem do wykrywania depresji wśród studentów.
 
